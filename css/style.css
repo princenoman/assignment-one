@@ -1,0 +1,22 @@
+<tr>
+            <td>58</td>
+            <td>title</td>
+            <td>This tag defines the title of the document. The title must be text-only, and it is shown in the
+                browser's title bar or in the page's tab.</td>
+            <td>
+                <!DOCTYPE html>
+                <html>
+
+                <head>
+                    <title>HTML TAG LIST</title>
+                </head>
+
+                <body>
+
+                    <p>This is an example of title tag.</p>
+
+                </body>
+
+                </html>
+            </td>
+        </tr>
